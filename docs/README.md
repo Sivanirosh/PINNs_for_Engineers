@@ -67,10 +67,6 @@ Take your PINNs knowledge to the next level:
 
 ---
 
-By following this roadmap, you’ll gradually build a strong understanding of physics-informed neural networks, from the fundamentals to the cutting edge. Enjoy the journey! 🌟 
-
----
-
 ## Suggested Learning Path 🧭
 
 1. Start with neural network basics. 🧠
@@ -80,5 +76,7 @@ By following this roadmap, you’ll gradually build a strong understanding of ph
 5. Experiment with tools like DeepXDE. 🛠️
 6. Dive into advanced research and topics. 🚀
 
-create a series of tutorial and practical example to introduce engineers to Physics Informed Neural Network.By following this roadmap, you’ll gradually build a strong understanding of physics-informed neural networks, from the fundamentals to the cutting edge. Enjoy the journey! 🌟
+---
+
+By following this roadmap, you’ll gradually build a strong understanding of physics-informed neural networks, from the fundamentals to the cutting edge. Enjoy the journey! 🌟
 
